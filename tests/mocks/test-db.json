@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": 12,
+      "category": "test category 1",
+      "title": "test title 1",
+      "description": "Just a description",
+      "location": "Portland",
+      "date": "March 28, 2021",
+      "time": "12:15",
+      "organizer": "George Crawford"
+    },
+    {
+      "id": 34,
+      "category": "test category 2",
+      "title": "test title 2",
+      "description": "Another description",
+      "location": "Eugene",
+      "date": "3/12/2003",
+      "time": "14:30",
+      "organizer": "Elaine Benes"
+    },
+    {
+      "id": "test-id-987",
+      "category": "test category 3",
+      "title": "test title 3",
+      "description": "A final description",
+      "location": "Ypsilanti",
+      "date": "2009-12-05",
+      "time": "09:00",
+      "organizer": "Ringo Starr"
+    }
+  ]
+}
