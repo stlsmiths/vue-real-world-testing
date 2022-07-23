@@ -1,6 +1,8 @@
 # Vue Real World Testing ( Pinia - Vitest)
 
-This repo was forked from [vuex funda,entals]
+This repo was forked from [Vue Master : Real World Testing](https://github.com/Code-Pop/real-world-testing)
+
+I am expanding this repo by experimenting with Pinia stores, Vite and Vitest.
 
 ## Project setup
 ```
